@@ -10,5 +10,6 @@ public class Main {
         int a = Integer.parseInt(input[1]);
         int b = Integer.parseInt(input[2]);
         System.out.println(2 * n * a * b);
+        in.close();
     }
 }
