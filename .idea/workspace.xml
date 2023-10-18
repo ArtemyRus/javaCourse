@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c76507cf-512d-4ca9-aedd-d5cd92561e25" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/timus/task_1293/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/JUDGE_ID" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1068/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1068/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1409/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1409/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1563/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1563/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +34,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArtemyRus&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e05511dc-f54c-42d1-aa6e-a8d85e585879" />
+        <option name="url" value="https://github.com/ArtemyRus/javaCourse.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -34,29 +59,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Artemy/IdeaProjects/javaCourse/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Artemy/IdeaProjects/javaCourse/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Example15">
-    <configuration name="Example11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example11" />
+}</component>
+  <component name="RunManager" selected="Application.timus.task_1563.Main">
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.Example3" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example12" />
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.Example4" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example13" />
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.Example5" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example14" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1068.Main" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="timus.task_1068.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example15" />
+    <configuration name="timus.task_1563.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1563.Main" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="timus.task_1563.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example15" />
-        <item itemvalue="Application.Example14" />
-        <item itemvalue="Application.Example13" />
-        <item itemvalue="Application.Example12" />
-        <item itemvalue="Application.Example11" />
+        <item itemvalue="Application.timus.task_1563.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example3" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +163,11 @@
       <workItem from="1697049865910" duration="873000" />
       <workItem from="1697142729631" duration="4682000" />
       <workItem from="1697208382346" duration="1185000" />
-      <workItem from="1697368218058" duration="9625000" />
+      <workItem from="1697368218058" duration="10416000" />
+      <workItem from="1697396303407" duration="18461000" />
+      <workItem from="1697452333101" duration="7479000" />
+      <workItem from="1697485532717" duration="1106000" />
+      <workItem from="1697650336162" duration="3975000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -148,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697377226619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1697378711520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697378711520</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1697378780560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697378780560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,5 +213,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="pixels[i]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
