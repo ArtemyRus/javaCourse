@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <book>
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <year>1869</year>
+    </book>
+    <book>
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <year>1869</year>
+    </book>
+    <book>
+        <title>Обломов</title>
+        <author>Иван Гончаров</author>
+        <year>1859</year>
+    </book>
+    <book>
+        <title>Герой нашего времени</title>
+        <author>Михаил Лермонтов</author>
+        <year>1840</year>
+    </book>
+    <book>
+        <title>Отцы и дети</title>
+        <author>Иван Тургенев</author>
+        <year>1862</year>
+    </book>
+    <book>
+        <title>Капитанская дочка</title>
+        <author>Александр Пушкин</author>
+        <year>1836</year>
+    </book>
+    <book>
+        <title>Судьба человека</title>
+        <author>Михаил Шолохов</author>
+        <year>1956</year>
+    </book>
+    <book>
+        <title>Преступление и наказание</title>
+        <author>Федор Достоевский</author>
+        <year>1866</year>
+    </book>
+    <book>
+        <title>Евгений Онегин</title>
+        <author>Александр Пушкин</author>
+        <year>1833</year>
+    </book></library>

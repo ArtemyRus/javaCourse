@@ -4,33 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76507cf-512d-4ca9-aedd-d5cd92561e25" name="Changes" comment="lab9">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example11/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example12/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example13/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example5/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example5/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example6/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example6/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example7/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example8/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example9/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/example9/output.txt" afterDir="false" />
+    <list default="true" id="c76507cf-512d-4ca9-aedd-d5cd92561e25" name="Changes" comment="lab8">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/CreateXMLFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/XMLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/JsonCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/example-json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example3/LinkParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example3/NewsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example3/links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example3/news.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example4/ReadExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example4/WriteExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example4/example.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example5/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example5/XMLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example5/library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example6/MyJsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example6/library.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaCourse.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,32 +79,55 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Artemy/Desktop/json-simple-1.1.1.jar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Artemy/IdeaProjects/javaCourse/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lr8.example13.Main">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Artemy\IdeaProjects\javaCourse\src\lr8\example13" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LinkParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example3.LinkParser" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr10.example3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.example9.Main" />
+      <option name="MAIN_CLASS_NAME" value="lr10.example5.Main" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr8.example9.*" />
+          <option name="PATTERN" value="lr10.example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr8.example10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.example10.Main" />
+    <configuration name="NewsParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example3.NewsParser" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr8.example10.*" />
+          <option name="PATTERN" value="lr10.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr8.example11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.example11.Main" />
+    <configuration name="ReadExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example4.ReadExcelFileExample" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr8.example11.*" />
+          <option name="PATTERN" value="lr10.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,25 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr8.example12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.example12.Main" />
+    <configuration name="WriteExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example4.WriteExcelFileExample" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr8.example12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lr8.example13.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.example13.Main" />
-      <module name="javaCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr8.example13.*" />
+          <option name="PATTERN" value="lr10.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lr8.example13.Main" />
-        <item itemvalue="Application.lr8.example12.Main" />
-        <item itemvalue="Application.lr8.example11.Main" />
-        <item itemvalue="Application.lr8.example10.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReadExcelFileExample" />
+        <item itemvalue="Application.WriteExcelFileExample" />
+        <item itemvalue="Application.NewsParser" />
+        <item itemvalue="Application.LinkParser" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +240,18 @@
       <workItem from="1706435894694" duration="11000" />
       <workItem from="1707313687864" duration="17260000" />
       <workItem from="1707910252894" duration="14949000" />
-      <workItem from="1707933401097" duration="3457000" />
+      <workItem from="1707933401097" duration="3727000" />
+      <workItem from="1708426619322" duration="617000" />
+      <workItem from="1708437110600" duration="8652000" />
+      <workItem from="1708502507414" duration="3409000" />
+      <workItem from="1708507215905" duration="26153000" />
+      <workItem from="1708544825284" duration="61000" />
+      <workItem from="1708544908577" duration="739000" />
+      <workItem from="1708629620241" duration="10690000" />
+      <workItem from="1708705134525" duration="8918000" />
+      <workItem from="1708876998020" duration="3219000" />
+      <workItem from="1708936307347" duration="21102000" />
+      <workItem from="1709040201098" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -302,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706298658760</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lab8">
+      <option name="closed" value="true" />
+      <created>1708008154112</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708008154112</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +358,8 @@
     <MESSAGE value="lab6" />
     <MESSAGE value="lab7" />
     <MESSAGE value="lab9" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab9" />
+    <MESSAGE value="lab8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab8" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
