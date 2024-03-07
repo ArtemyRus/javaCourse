@@ -4,20 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76507cf-512d-4ca9-aedd-d5cd92561e25" name="Changes" comment="lab10">
-      <change afterPath="$PROJECT_DIR$/src/lr11/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example1/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example4_5/FirstLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example4_5/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example4_5/SecondLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/books.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example8/LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example8/Node.java" afterDir="false" />
+    <list default="true" id="c76507cf-512d-4ca9-aedd-d5cd92561e25" name="Changes" comment="lab11">
+      <change afterPath="$PROJECT_DIR$/src/lr12/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr12/example9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example3/FirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example3/SecondThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example4/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/example6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +93,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -94,26 +102,13 @@
       <recent name="C:\Users\Artemy\IdeaProjects\javaCourse\src\lr8\example13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lr11.example9.Main">
-    <configuration name="FirstLinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example4_5.FirstLinkList" />
-      <module name="javaCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr11.example4_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.lr13.example6.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example6.Main" />
+      <option name="MAIN_CLASS_NAME" value="lr13.example3.Main" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example6.*" />
+          <option name="PATTERN" value="lr13.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr11.example7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example7.Main" />
+    <configuration name="lr13.example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.example2.Main" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example7.*" />
+          <option name="PATTERN" value="lr13.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr11.example8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example8.Main" />
+    <configuration name="lr13.example4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.example4.Main" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example8.*" />
+          <option name="PATTERN" value="lr13.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +142,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr11.example9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example9.Main" />
+    <configuration name="lr13.example5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.example5.Main" />
       <module name="javaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example9.*" />
+          <option name="PATTERN" value="lr13.example5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lr13.example6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.example6.Main" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr13.example6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lr11.example9.Main" />
-        <item itemvalue="Application.lr11.example8.Main" />
-        <item itemvalue="Application.FirstLinkList" />
-        <item itemvalue="Application.lr11.example7.Main" />
+        <item itemvalue="Application.lr13.example6.Main" />
+        <item itemvalue="Application.lr13.example5.Main" />
+        <item itemvalue="Application.lr13.example4.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lr13.example2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +251,9 @@
       <workItem from="1709451112706" duration="25909000" />
       <workItem from="1709560763704" duration="8673000" />
       <workItem from="1709574100301" duration="1551000" />
-      <workItem from="1709660111495" duration="607000" />
+      <workItem from="1709660111495" duration="8904000" />
+      <workItem from="1709751891491" duration="615000" />
+      <workItem from="1709816757546" duration="10854000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -333,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709153849364</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lab11">
+      <option name="closed" value="true" />
+      <created>1709664761220</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709664761220</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,6 +378,11 @@
     <MESSAGE value="lab9" />
     <MESSAGE value="lab8" />
     <MESSAGE value="lab10" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab10" />
+    <MESSAGE value="lab11" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab11" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
