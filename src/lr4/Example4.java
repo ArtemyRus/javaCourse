@@ -3,7 +3,7 @@ package lr4;
 
 public class Example4 {
     public static void main(String[] args) {
-        int side = 35;
+        int side = 17;
         int[][] intArray = new int[side][side];
         for (int i = 0; i < intArray.length; i++)
             for (int j = 0; j < intArray[0].length; j++)

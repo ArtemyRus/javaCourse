@@ -9,7 +9,8 @@ public class Main {
             String fileName = br.readLine();
             File file = new File(fileName);
             if(file.exists()){
-                System.out.println("Размер файла " + file.getAbsolutePath() + ": " + file.length() + " байт");
+                System.out.println("Размер файла " + file.getAbsolutePath()
+                        + ": " + file.length() + " байт");
             }
             else{
                 System.out.println("Файл не найден");
